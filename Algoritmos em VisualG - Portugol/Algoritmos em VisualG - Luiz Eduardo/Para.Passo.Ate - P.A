@@ -1,0 +1,15 @@
+Algoritmo "semnome"
+
+Var
+   valor, cont, razao : inteiro
+
+Inicio
+   escreva("Informe o valor inicial: ")
+   leia(valor)
+   escreva("Informe a razao: ")
+   leia(razao)
+   para cont de 0 ate 9 faca
+      escreval(cont," - ",valor)
+      valor <- valor+razao
+   fimpara
+Fimalgoritmo
