@@ -1,2 +1,4 @@
-# VisualG-Portugol
- Here are my codes in Portugol Language that I did using some exercises in VisualG.
+# Portugol em VisualG
+***
+ * Codes developed in Portugol (pseudocode programming language) using the VisualG development environment for initial learning in programming logic.
+***
